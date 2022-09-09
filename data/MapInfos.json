@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"初期設定","order":1,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":2,"expanded":true,"name":"ホーム","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"戦場","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"広場","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Room2","order":5,"parentId":2,"scrollX":832,"scrollY":640},
+null,
+{"id":7,"expanded":false,"name":"Room1","order":4,"parentId":2,"scrollX":832,"scrollY":640}
+]
