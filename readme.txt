@@ -43,3 +43,5 @@ RandomTreasure
 TMMaxItems
 TMGreedShop
 AutoBattle
+TimeEvent
+CustomizeConfigDefault
