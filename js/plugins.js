@@ -25,5 +25,5 @@ var $plugins =
 {"name":"RandomTreasure","status":true,"description":"ランダム宝箱プラグイン","parameters":{"アイテム名格納変数":"0","アイテムアイコン番号格納変数":"0","アイテムのくじの本数格納変数":"0"}},
 {"name":"TMMaxItems","status":true,"description":"アイテムの所持上限数を個別に設定します。","parameters":{"numberMaxDigits":"4","numberFontSize":"24","numberSeparator":"×"}},
 {"name":"TMGreedShop","status":true,"description":"お金以外にアイテムも要求されるショップ機能を追加します。","parameters":{"materialWindowPosition":"0","materialWindowWidth":"408","buyWindowWidth":"456","buyWindowHeight":"0","materialMax":"5","fontRate":"0.8","greedCommand":"購入する","needText":"必要なもの","showSellCommand":"true","showMaterialWindow":"true","overlaid":"true","backOpacity":"192","showMaterialFromNumberWindow":"true","showPrice":"true","seGreedBuy":"{\"name\":\"Shop1\",\"volume\":\"90\",\"pitch\":\"100\",\"pan\":\"0\"}"}},
-{"name":"AutoBattle","status":true,"description":"自動戦闘プラグイン","parameters":{"パーティコマンド名称":"オート","パーティコマンド位置":"-1","アクターコマンド名称":"オート","アクターコマンド位置":"-1"}}
+{"name":"AutoBattle","status":true,"description":"自動戦闘プラグイン","parameters":{"パーティコマンド名称":"オート","パーティコマンド位置":"2","アクターコマンド名称":"オート","アクターコマンド位置":"-1"}}
 ];
